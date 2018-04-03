@@ -1,0 +1,12 @@
+- link: /
+  name: About
+- link: /blog/
+  name: Blog
+- link: /work/
+  name: Selected Work
+- link: /recognition/
+  name: Recognition
+#- link: /tutoring/
+#  name: Tutoring
+#- link: /schedule/
+#  name: Schedule

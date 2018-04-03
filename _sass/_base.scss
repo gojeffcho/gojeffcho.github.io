@@ -101,7 +101,7 @@ a {
 
     &:hover {
         color: $text-color;
-        //text-decoration: underline;
+//         text-decoration: underline;
     }
 }
 
@@ -214,23 +214,64 @@ pre {
  */
 .classschedule {
     border-collapse: collapse;
+    width: 100%;
 
-    th {
-    	border-top: 2pt solid black;
-    	border-bottom: 2pt solid black;
-    }
+  th {
+    border-top: 2pt solid black;
+    border-bottom: 2pt solid black;
+    border-left: 1pt solid black;
+    border-right: 1pt solid black;
+    text-align: center;
+    background-color: #C8C8C8;
+  }
+  
+  tr {
+    height: 30px;
+  }
 
-    td {
-		border-bottom: 1pt solid black;
+  td {
+		border: 1pt solid black;
+		text-align: center;
 	}
+	
+	td.avail {
+    background-color: #baffc9;	
+	}
+	
+	td.maybe {
+	  background-color: #ffffba;
+	}
+	
+	td.unavail {
+	  background-color: #ffb3ba;
+	}
+	
+}
 
-	th:last-child, td:last-child {
-    	text-align: right;
-  	}
+.legend {
+  float: left;
+  margin: 5px;
+}
 
-  	td:last-child[colspan] {
-    	text-align: left;
-  	}
+.legendbox {
+  float: left;
+  width: 20px;
+  height: 20px;
+  margin-left: 30px;
+  margin-right: 10px;
+  border: 1px solid rgba(0, 0, 0, .2);
+}
+
+.available {
+  background: #baffc9;
+}
+
+.potentially {
+  background: #ffffba;
+}
+
+.unavailable {
+  background: #ffb3ba;
 }
 
 .schedule {

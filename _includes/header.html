@@ -2,28 +2,22 @@
     <div class="wrapper">
       <div class="header-col-wrapper">
           <div class="header-col  header-col-1">
-              <img class="profile-nav" src="{{ "/resources/images/karim.jpg" | prepend: site.baseurl }}" alt="Karim Ali" />
+              <img class="profile-nav" src="{{ "/resources/images/jeff.png" | prepend: site.baseurl }}" alt="Jeff Cho" />
           </div>
 
           <div class="header-col  header-col-2">
               <ul class="contact-list">
-                <li><b>Karim Ali</b></li>
-                <li>Assistant Professor</>
-                <li><a href="{{ site.groupweb }}">{{ site.group }}</a></li>
-                <li><a href="{{ site.deptweb }}" target="_blank">{{ site.dept }}</a></li>
-                <li><a href="{{ site.institutionweb }}" target="_blank">{{ site.institution }}</a></li>
+                <li><b><h1>Jeff Cho</h1></b></li>
+                <li>I am passionate about Computing Science, Game Design and Development, Leadership, Teaching, and Community-Building. </li>
               </ul>
           </div>
 
           <div class="header-col  header-col-3">
               <ul class="social-media-list">
-                <li><a href="mailto:{{ site.email }}">{{ site.email }}</a></li>
-                <li>{{ site.address }}</li>
-                <li>{{ site.city }}</li>
-                <li>{{ site.country }} {{ site.zipcode }}</li>
 
+                <br />
+                
                   {% if site.github_username %}
-                  <br />
                   <li>
                       <a href="https://github.com/{{ site.github_username }}" target="_blank">
                           <span class="icon  icon--github">
@@ -33,6 +27,38 @@
                           </span>
 
                           <span class="username">{{ site.github_username }}</span>
+                      </a>
+                  </li>
+                  {% endif %}
+                  
+                  {% if site.linkedin_username %}
+                  <li>
+                    <a href="https://www.linkedin.com/in/{{ site.linkedin_username }}">
+                      <span class="icon  icon--linkedin">
+                        <svg viewBox="0 50 512 512" >
+                          <path fill="#828282" d="M150.65,100.682c0,27.992-22.508,50.683-50.273,50.683c-27.765,0-50.273-22.691-50.273-50.683
+                          C50.104,72.691,72.612,50,100.377,50C128.143,50,150.65,72.691,150.65,100.682z M143.294,187.333H58.277V462h85.017V187.333z
+                          M279.195,187.333h-81.541V462h81.541c0,0,0-101.877,0-144.181c0-38.624,17.779-61.615,51.807-61.615
+                          c31.268,0,46.289,22.071,46.289,61.615c0,39.545,0,144.181,0,144.181h84.605c0,0,0-100.344,0-173.915
+                          s-41.689-109.131-99.934-109.131s-82.768,45.369-82.768,45.369V187.333z"/>
+                        </svg>
+                      </span>
+
+                      <span class="username"> {{ site.linkedin_username }}</span>
+                    </a>
+                  </li>
+                  {% endif %}
+
+                  {% if site.facebook_username %}
+                  <li>
+                      <a href="https://facebook.com/{{ site.facebook_username }}" target="_blank">
+                          <span class="icon  icon--facebook">
+                              <svg viewBox="0 0 24 24">
+                                  <path fill="#3b5998" d="M19,4V7H17A1,1 0 0,0 16,8V10H19V13H16V20H13V13H11V10H13V7.5C13,5.56 14.57,4 16.5,4M20,2H4A2,2 0 0,0 2,4V20A2,2 0 0,0 4,22H20A2,2 0 0,0 22,20V4C22,2.89 21.1,2 20,2Z"/>
+                              </svg>
+                          </span>
+
+                          <span class="username">{{ site.twitter_username }}</span>
                       </a>
                   </li>
                   {% endif %}
@@ -51,6 +77,21 @@
                       </a>
                   </li>
                   {% endif %}
+                  
+                  {% if site.email %}
+                  <li>
+                      <a href="mailto:{{ site.email }}" target="_blank">
+                          <span class="icon  icon--email">
+                              <svg viewBox="0 0 24 24">
+                                  <path fill="#000000" d="M20 4H4c-1.1 0-1.99.9-1.99 2L2 18c0 1.1.9 2 2 2h16c1.1 0 2-.9 2-2V6c0-1.1-.9-2-2-2zm0 4l-8 5-8-5V6l8 5 8-5v2z" fill="none"/>
+                              </svg>
+                          </span>
+
+                          <span class="username">email me</span>
+                      </a>
+                  </li>
+                  {% endif %}
+                  
               </ul>
           </div>
       </div>
@@ -65,28 +106,16 @@
             </a>
 
             <div class="trigger">
-            	  {% assign pages = site.pages | sort:'weight', 'last'  %}
-                {% for node in pages %}
-                	{% if node.title and node.url == page.url %}
-                		<a class="page-link-active" href="{{ node.url | prepend: site.baseurl }}">{{ node.title }}</a>
-                	{% elsif node.title and page.group and node.group == page.group %}
-                		<a class="page-link-active" href="{{ node.url | prepend: site.baseurl }}">{{ node.title }}</a>
-                	{% elsif node.title %}
-                    	<a class="page-link" href="{{ node.url | prepend: site.baseurl }}">{{ node.title }}</a>
-                	{% endif %}
-                {% endfor %}
+            
+              {% for item in site.data.navigation %}
+                <a {% if item.link == page.url %} class="page-link-active" {% else %} class="page-link" {% endif %} href="{{ item.link | prepend: site.baseurl }}">
+                  {{ item.name }}
+                </a>
+              {% endfor %}
+            
             </div>
+            
         </nav>
     </div>
 </header>
 
-<script>
-  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
-
-  ga('create', 'UA-57205987-1', 'auto');
-  ga('send', 'pageview');
-
-</script>

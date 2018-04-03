@@ -1,0 +1,72 @@
+---
+layout: default
+title: Blog
+weight: 2
+---
+
+<div class="home">
+    <!-- This loops through the paginated posts -->
+	<ul class="post-list">
+	{% for post in paginator.posts %}
+	{% unless post.weight %}
+		<li>
+			<h2 style="margin-bottom:0px;">
+				<a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+			</h2>
+			<span class="post-meta" >Posted on {{ post.date | date: "%b %-d, %Y" }} by {{ site.name }}</span>
+			
+			<ul style="margin-top:10px;">
+			
+			{% if post.content contains site.excerpt_separator %}
+				{{ post.content | split:site.excerpt_separator | first }}
+				<a href="{{ post.url | prepend: site.baseurl }}">Read more...</a>
+			{% else %}
+				{{ post.content }}
+			{% endif %}
+
+        <span><em>tags</em>: 
+          {% for tag in post.tags %}
+            {% capture tag_name %}{{ tag }}{% endcapture %}
+            <a href="/tag/{{ tag_name }}"><code class="highligher-rouge"><nobr>{{ tag_name }}</nobr></code>&nbsp;</a>
+          {% endfor %}
+        </span>
+			
+			</ul>
+		</li>
+	{% endunless %}
+  {% endfor %}
+  </ul>
+
+
+<!-- Pagination links -->
+	<div class="pagination" style="text-align: center;">
+		<a href="{{ "/blog/index.html" | prepend: site.baseurl }}" class="previous">&lt;&lt;</a>
+		&nbsp;
+		{% if paginator.previous_page %}
+			<a href="{{ paginator.previous_page_path }}" class="previous">&lt;</a>
+		{% else %}
+			<span class="previous">&lt;</span>
+		{% endif %}
+		&nbsp;
+		<span class="page_number ">Page: {{ paginator.page }} of {{ paginator.total_pages }}</span>
+		&nbsp;
+		{% if paginator.next_page %}
+			<a href="{{ paginator.next_page_path }}" class="next">&gt;</a>
+		{% else %}
+			<span class="next ">&gt;</span>
+		{% endif %}
+		&nbsp;
+		{% if paginator.total_pages > 1 %}
+		  <a href="{{ "/blog/page" | append: paginator.total_pages | prepend: site.baseurl}}" class="next">&gt;&gt;</a>
+		{% else %}
+		  <span class="next ">&gt;&gt;</span>
+		{% endif %}
+	</div>
+
+<!-- Tag Cloud -->
+<!-- {% include tagcloud.html %} -->
+
+<!-- Subscribe Footer -->
+  <p class="rss-subscribe" style="text-align: center;"><a href="{{ "/feed.xml" | prepend: site.baseurl }}">subscribe</a> via RSS</p>
+  
+</div>

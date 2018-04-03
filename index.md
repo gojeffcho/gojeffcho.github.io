@@ -1,23 +1,10 @@
 ---
 layout: default
-title: Research
+title: About
 weight: 1
-group: research
+group: about
 ---
 
-Few static analyses make their way to the real-world due to the unrealistic assumptions that they make. My primary research interest is to develop and evaluate various program analysis techniques that can be used in practice by exploring three aspects: scalability, precision, and usability. My interests span programming languages, software systems, and software engineering. In particular, I am interested in researching the following areas:
+I am a Computing Science Specialization and Game Development Certificate student at the University of Alberta in Edmonton, Alberta.  I am an undergraduate research assistant, Teaching Assistant for CMPUT 201 (Practical Programming Methodology), and Executive Producer for CMPUT 250 (Computers and Games).  My areas of research include Compilers and Static Analysis with [Prof. Karim Ali](http://karimali.ca/), Interactivity and Narratology in Games with [Prof. Astrid Ensslin](https://astridensslin.wordpress.com/), and Artificial Intelligence with [Prof. Michael Buro](https://www.ualberta.ca/science/about-us/contact-us/faculty-directory/michael-buro).
 
-* library code summaries
-* scalable and precise points-to and call graph analyses
-* usability of static analysis tools
-* crypto APIs misuse
-* JIT compiler optimizations
-
-
-## Current Projects ##
-{% include filteredposts.html %}
-
-## Past Projects ##
-
-* <a href="http://sourceforge.net/projects/algorizmi/" target="_blank">algorizmi</a>: a configurable virtual testbed for intrusion detection systems evaluation.
-* <a href="http://sourceforge.net/projects/beep/" target="_blank">beep</a>: a J2ME implementation of the Jabber protocol.
+My passions include game design, leadership, teaching, and community-building.  I am a Game Designer, Producer, and Lead Developer with [TEAM JEFF](http://teamjeff.ca), and I love to volunteer with organizations like the [Awesome Foundation](http://www.awesomefoundation.org/) in my spare time.  I am also very interested in how rapidly evolving technologies affect our use and understanding of identity, ethics, privacy, security, and communications.  My other hobbies include homebrewing, music, cooking (particularly using sous vide or smoking techniques), video games, and marksmanship.
