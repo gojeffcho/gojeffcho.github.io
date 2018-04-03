@@ -3,11 +3,16 @@
     <div class="wrapper">
         <div class="footer-col-wrapper" style="text-align: center;">
             
-            Copyright &copy; {{site.startyear}}
+            Website and blog by <a href="/">Jeff Cho</a>,     
+              {{site.startyear}}
               {% assign year = site.time | date: '%Y' | plus: 0 %}
               {% if year > site.startyear %}
                 - {{ year }}
-              {% endif %} <a href="/">Jeff Cho</a>
+              {% endif %}
+            
+            <br />
+             
+            <a href="https://github.com/gojeffcho/gojeffcho.github.io">Source code</a> available under the <a href="https://opensource.org/licenses/MIT" target="blakn">MIT License</a>
 
         </div>
   </div>
