@@ -2,8 +2,9 @@
 description: > # this means to ignore newlines until "baseurl:"
   Jeff Cho
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://gojeffcho.github.io" # the base hostname & protocol for your site
+url: "http://jeffcho.com" # the base hostname & protocol for your site
 startyear: 2018
+timezone: America/Edmonton
 
 # User settings
 title: Jeff Cho

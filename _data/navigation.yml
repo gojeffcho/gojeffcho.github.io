@@ -1,4 +1,6 @@
 - link: /
+  name: Projects
+- link: /about/
   name: About
 - link: /blog/
   name: Blog

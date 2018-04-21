@@ -2,7 +2,7 @@
 layout: post
 title:  "Blog Coming Soon!"
 author: Jeff Cho
-date:   2018-04-01 16:32:00 -0700
+date:   2018-04-01 16:32:00
 tags:   admin
 ---
   

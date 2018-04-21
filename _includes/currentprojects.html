@@ -1,0 +1,22 @@
+
+{% assign projects = site.tags.projects | sort:'weight', 'last' %}
+
+<ul class="post-list">
+
+{% for post in projects %}
+  <li>
+    <h2>
+      <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+    </h2>
+    <ul>
+    {% if post.content contains site.excerpt_separator %}
+      {{ post.content | split:site.excerpt_separator | first }}
+        <a href="{{ post.url | prepend: site.baseurl }}">Read more...</a>
+        </p>
+    {% else %}
+      {{ post.content }}
+    {% endif %}
+    </ul>
+</li>
+{% endfor %}
+</ul>
