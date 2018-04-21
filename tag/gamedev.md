@@ -1,6 +1,6 @@
 ---
 layout: tagpage
-title: "Tag: admin"
-tag: admin
+title: "Tag: gamedev"
+tag: gamedev
 robots: noindex
 ---
