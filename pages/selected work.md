@@ -19,6 +19,9 @@ group: work
 
 ## 2018 ##
 
+  **Producer, Game Designer, Lead Developer**  
+  [_Project Colony_](/tag/colony) (Working Title) by [Caldera Interactive](http://calderainteractive.com)
+
   **USRA Researcher**, Summer  
   "Situational Awareness in StarCraft 2 AI" under Prof. Michael Buro
   
@@ -40,7 +43,7 @@ group: work
   **WALA-Swift Project Mentor**, Winter Semester  
   [Undergraduate Capstone Open Source Project](http://ucosp.ca/) with Prof. Karim Ali and Julian Dolby
   
-  **Project Manager and Lead Developer**, Winter Semester  
+  **Producer and Lead Developer**, Winter Semester  
   <i>Reviver</i> by TEAM JEFF, created for [INTD 450 - "Computers and Games Capstone"](https://www.ualberta.ca/computing-science/undergraduate-studies/course-directory/courses/computers-and-games-capstone) (Unity)
 
 ## 2017 ##
