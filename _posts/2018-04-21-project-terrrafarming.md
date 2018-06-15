@@ -1,11 +1,11 @@
 ---
 layout: post
-title:  "Project Terrafarming"
+title:  "Project Colony"
 author: Jeff Cho
 date:   2018-04-21 11:39:00
-tags:   projects games terrafarming
+tags:   projects games colony
 ---
   
-  <img src="{{ "/resources/images/Terrafarming.jpg" | absolute_url }}" style="display: block; margin-left: auto; margin-right: auto; max-width: 40%; ">
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/86bmAkabALg?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen style="display: block; margin-left: auto; margin-right: auto; padding-bottom: 15px;"></iframe> 
   
-  A new game project featuring gorgeous pixel art, a new take on farming simulator mechanics set in space, and an unforgettable atmospheric experience.  Stay tuned for more information, concept art, and prototypes coming summer 2018!
+  A new game project featuring gorgeous pixel art, atmospheric soundscapes, and an unforgettable adventure.  Stay tuned for more information, concept art, and prototypes coming summer 2018!
