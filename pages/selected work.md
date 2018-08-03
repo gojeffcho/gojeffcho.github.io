@@ -9,7 +9,7 @@ group: work
 ## Ongoing ##
 
   **Officer**, *2015 - Present*  
-  Regular Force, Royal Canadian Air Force
+  Royal Canadian Air Force (Regular Force)
 
   **Bachelor of Science, Computing Science Specialization**, *2015 - Present*  
   University of Alberta, Edmonton, Alberta
@@ -75,7 +75,7 @@ group: work
   *Torus* by Blue Rare Productions, created for [CMPUT 250](https://www.ualberta.ca/computing-science/undergraduate-studies/course-directory/courses/computers-and-games) (Aurora Engine)
 
   **Non-Commissioned Officer**, 2007 - 2015  
-  Regular Force - Canadian Army 
+  Canadian Army (Regular Force)
   
   **Dean of Awesome**, 2014 - 2016  
   Awesome Foundation - Edmonton 
