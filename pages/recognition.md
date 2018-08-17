@@ -8,6 +8,9 @@ weight: 4
   **Amdahl Academic Achievement Scholarship in Computing Science**, 2018  
   Department of Computing Science, University of Alberta
   
+  **Undergraduate Academic Scholarship**, 2018  
+  University of Alberta
+  
   **Undergraduate Student Research Award** (USRA), 2018  
   Natural Sciences and Engineering Research Council of Canada (NSERC)
 
