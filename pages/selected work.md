@@ -11,6 +11,9 @@ group: work
   **Producer, Game Designer, Lead Developer**, *2018 - Present*  
   [_Project Colony_](/tag/colony) (Working Title) by [Caldera Interactive](http://calderainteractive.com)
   
+  **Students' Union Tutor**, *2018 - Present*  
+  [Students' Union Certified](https://www.su.ualberta.ca/services/infolink/tutor/registry/tutor/406/) Tutor in Computing Science, Statistics, Psychology, and Comparative Literature
+  
   **Officer**, *2015 - Present*  
   Royal Canadian Air Force (Regular Force)
 
