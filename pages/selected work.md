@@ -8,6 +8,9 @@ group: work
 
 ## Ongoing ##
 
+  **Producer, Game Designer, Lead Developer**, *2018 - Present*  
+  [_Project Colony_](/tag/colony) (Working Title) by [Caldera Interactive](http://calderainteractive.com)
+  
   **Officer**, *2015 - Present*  
   Royal Canadian Air Force (Regular Force)
 
@@ -16,9 +19,6 @@ group: work
   
   **Game Development Certificate**, *2015 - Present*  
   University of Alberta, Edmonton, Alberta
-
-  **Producer, Game Designer, Lead Developer**, *2018 - Present*
-  [_Project Colony_](/tag/colony) (Working Title) by [Caldera Interactive](http://calderainteractive.com)
 
 ## 2018 ##
 
