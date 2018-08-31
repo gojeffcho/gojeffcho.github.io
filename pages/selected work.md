@@ -17,17 +17,17 @@ group: work
   **Game Development Certificate**, *2015 - Present*  
   University of Alberta, Edmonton, Alberta
 
-## 2018 ##
-
   **Producer, Game Designer, Lead Developer**  
   [_Project Colony_](/tag/colony) (Working Title) by [Caldera Interactive](http://calderainteractive.com)
+
+## 2018 ##
+
+  **Executive Producer**, Fall Semester  
+  [CMPUT 250 - "Computers and Games"](https://www.ualberta.ca/computing-science/undergraduate-studies/course-directory/courses/computers-and-games) under Prof. Nathan Sturtevant
 
   **USRA Researcher**, Summer  
   "Situational Awareness in StarCraft 2 AI" under Prof. Michael Buro
   
-  **Researcher**, Summer  
-  "Unit Interaction Analysis" with Prof. Astrid Ensslin
-
   **Seminar Speaker**, 14 March 2018  
   "Enabling Swift Analyses in WALA" at PLSE Seminar (Programming Languages and Software Engineering)
   
@@ -40,7 +40,7 @@ group: work
   **Executive Producer**, Winter Semester  
   [CMPUT 250 - "Computers and Games"](https://www.ualberta.ca/computing-science/undergraduate-studies/course-directory/courses/computers-and-games) under Prof. Vadim Bulitko for *Bit-by-Bit* by Studio Toaster
   
-  **WALA-Swift Project Mentor**, Winter Semester  
+  **Swift-WALA Project Mentor**, Winter Semester  
   [Undergraduate Capstone Open Source Project](http://ucosp.ca/) with Prof. Karim Ali and Julian Dolby
   
   **Producer and Lead Developer**, Winter Semester  
@@ -54,7 +54,7 @@ group: work
   **Science Mentor**, Fall Semester  
   [CMPUT 175 - "Introduction to the Foundations of Computation II"](https://www.ualberta.ca/computing-science/undergraduate-studies/course-directory/courses/introduction-to-the-foundations-of-computing-ii) through [ISSS](https://isss.ca/)
   
-  **WALA-Swift Project Mentor**, Fall Semester  
+  **Swift-WALA Project Mentor**, Fall Semester  
   [Undergraduate Capstone Open Source Project](http://ucosp.ca/) with Prof. Karim Ali and Julian Dolby
   
   **Producer and Lead Developer**, Fall Semester  

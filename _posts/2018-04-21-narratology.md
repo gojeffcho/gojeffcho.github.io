@@ -3,7 +3,7 @@ layout: post
 title:  "Research: Unit Interaction Analysis"
 author: Jeff Cho
 date:   2018-04-21 10:40:00
-tags:   projects research narratology
+tags:   research narratology
 ---
   
   <img src="{{ "/resources/images/narratology.png" | absolute_url }}" width="400" style="display: block; margin-left: auto; margin-right: auto; width: 85%">
