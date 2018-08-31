@@ -17,7 +17,7 @@ group: work
   **Game Development Certificate**, *2015 - Present*  
   University of Alberta, Edmonton, Alberta
 
-  **Producer, Game Designer, Lead Developer**  
+  **Producer, Game Designer, Lead Developer**, *2018 - Present*
   [_Project Colony_](/tag/colony) (Working Title) by [Caldera Interactive](http://calderainteractive.com)
 
 ## 2018 ##
