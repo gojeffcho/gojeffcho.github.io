@@ -36,11 +36,11 @@ weight: 5
   
   <tr>
     <td rowspan = "2"> 0800 </td>
-    <td rowspan = "2" class="maybe"> Mon 1 </td>
-    <td rowspan = "3" class="maybe"> Tue 1</td>
-    <td rowspan = "2" class="maybe"> Wed 1</td>
-    <td rowspan = "3" class="maybe"> Thu 1</td>
-    <td rowspan = "2" class="maybe"> Fri 1</td>
+    <td rowspan = "2" class="unavailable"> <!-- Mon 1 --></td>
+    <td rowspan = "3" class="unavailable"> <!-- Tue 1 --></td>
+    <td rowspan = "2" class="unavailable"> <!-- Wed 1 --></td>
+    <td rowspan = "3" class="unavailable"> <!-- Thu 1 --></td>
+    <td rowspan = "2" class="unavailable"> <!-- Fri 1 --></td>
   </tr>
   
   <tr />
@@ -100,11 +100,11 @@ weight: 5
   
   <tr>
     <td rowspan = "2"> 1400 </td>
-    <td rowspan = "2" class="avail"> Mon 7</td>
+    <td rowspan = "2" class="maybe"> Mon 7</td>
     <td rowspan = "3" class="unavail"> <!--Tue 5--> </td>
-    <td rowspan = "2" class="avail"> Wed 7</td>
+    <td rowspan = "2" class="unavail"> <!-- Wed 7 --></td>
     <td rowspan = "3" class="unavail"> <!--Thu 5--> </td>
-    <td rowspan = "2" class="avail"> Fri 7</td>    
+    <td rowspan = "2" class="maybe"> Fri 7</td>    
   </tr>
   
   <tr />
@@ -112,7 +112,7 @@ weight: 5
   <tr>
     <td rowspan = "2"> 1500 </td>
     <td rowspan = "2" class="maybe">Mon 8</td>
-    <td rowspan = "2" class="maybe">Wed 8</td>
+    <td rowspan = "2" class="unavail"><!-- Wed 8 --></td>
     <td rowspan = "2" class="maybe">Fri 8</td>    
   </tr>
   
