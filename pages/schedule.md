@@ -69,9 +69,9 @@ weight: 5
   <tr>
     <td rowspan = "2"> 1100 </td>
     <td rowspan = "2" class="avail"> Mon 4</td>
-    <td rowspan = "3" class="maybe"> Tue 3</td>
+    <td rowspan = "3" class="avail"> Tue 3</td>
     <td rowspan = "2" class="avail"> Wed 4</td>
-    <td rowspan = "3" class="maybe"> Thu 3</td>
+    <td rowspan = "3" class="avail"> Thu 3</td>
     <td rowspan = "2" class="avail"> Fri 4</td>
   </tr>
   
@@ -85,8 +85,8 @@ weight: 5
   </tr>
 
   <tr>
-    <td rowspan = "3" class="unavail"> <!--Tue 4--> </td>
-    <td rowspan = "3" class="unavail"> <!--Thu 4--> </td>
+    <td rowspan = "3" class="avail"> Tue 4 </td>
+    <td rowspan = "3" class="avail"> Thu 4 </td>
   </tr>
   
   <tr>
