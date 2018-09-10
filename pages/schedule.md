@@ -117,8 +117,8 @@ weight: 5
   </tr>
   
   <tr>
-    <td rowspan = "3" class="avail">Tue 6</td>
-    <td rowspan = "3" class="avail">Thu 6</td>
+    <td rowspan = "3" class="unavail"><!-- Tue 6 --></td>
+    <td rowspan = "3" class="unavail"><!-- Thu 6 --></td>
   </tr>
   
   <tr>
