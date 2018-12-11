@@ -8,12 +8,6 @@ group: work
 
 ## Ongoing ##
 
-  **Producer, Game Designer, Lead Developer**, *2018 - Present*  
-  [_Project Colony_](/tag/colony) (Working Title) by [Caldera Interactive](http://calderainteractive.com)
-  
-  **Students' Union Tutor**, *2018 - Present*  
-  [Students' Union Certified](https://www.su.ualberta.ca/services/infolink/tutor/registry/tutor/406/) Tutor in Computing Science, Statistics, Psychology, and Comparative Literature
-  
   **Officer**, *2015 - Present*  
   Royal Canadian Air Force (Regular Force)
 
@@ -21,22 +15,22 @@ group: work
   University of Alberta, Edmonton, Alberta
   
   **Game Development Certificate**, *2015 - Present*  
-  University of Alberta, Edmonton, Alberta
+  University of Alberta, Edmonton, Alberta  
 
+  **Producer, Game Designer, Lead Developer**, *2018 - Present*  
+  [_Project Colony_](/tag/colony) (Working Title) by [Caldera Interactive](http://calderainteractive.com)
+  
+  **Students' Union Tutor**, *2018 - Present*  
+  [Students' Union Certified](https://www.su.ualberta.ca/services/infolink/tutor/registry/tutor/406/) Tutor
+  
 ## 2018 ##
 
   **Executive Producer**, Fall Semester  
   [CMPUT 250 - "Computers and Games"](https://www.ualberta.ca/computing-science/undergraduate-studies/course-directory/courses/computers-and-games) under Prof. Nathan Sturtevant
 
-  **USRA Researcher**, Summer  
+  **USRA Researcher**, Summer, Fall Semester  
   "Situational Awareness in StarCraft 2 AI" under Prof. Michael Buro
-  
-  **Seminar Speaker**, 14 March 2018  
-  "Enabling Swift Analyses in WALA" at PLSE Seminar (Programming Languages and Software Engineering)
-  
-  **Conference Speaker**, 9 March 2018  
-  "Unit Interaction Analysis" at HUCON (Humanities Computing Conference)
-  
+    
   **Teaching Assistant**, Winter Semester  
   [CMPUT 201 - "Practical Programming Methodology"](https://www.ualberta.ca/computing-science/undergraduate-studies/course-directory/courses/practical-programming-methodology) under Prof. Sarah Nadi
   

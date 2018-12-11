@@ -6,6 +6,8 @@
   name: Blog
 - link: /work/
   name: Selected Work
+- link: /pubs/
+  name: Papers
 - link: /recognition/
   name: Recognition
 - link: /tutoring/

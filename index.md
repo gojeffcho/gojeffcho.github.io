@@ -5,6 +5,6 @@ weight: 1
 group: projects
 ---
 
-## Current Projects ##
+## Current and Recent Projects ##
 
 {% include currentprojects.html %}
