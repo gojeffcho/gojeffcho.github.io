@@ -5,6 +5,9 @@ permalink: /recognition/
 weight: 4
 ---
   
+  **Honorable Mention, CRA Outstanding Undergraduate Researcher Awards**, 2019  
+  Computing Research Association - Education Committee
+  
   **Amdahl Academic Achievement Scholarship in Computing Science**, 2018  
   *$2,400 Value*  
   Department of Computing Science, University of Alberta
