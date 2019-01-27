@@ -6,7 +6,7 @@ weight: 4
 ---
   
   **Honorable Mention, CRA Outstanding Undergraduate Researcher Awards**, 2019  
-  Computing Research Association - Education Committee
+  Computing Research Association
   
   **Amdahl Academic Achievement Scholarship in Computing Science**, 2018  
   *$2,400 Value*  

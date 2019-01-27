@@ -23,10 +23,23 @@ group: work
   **Students' Union Tutor**, *2018 - Present*  
   [Students' Union Certified](https://www.su.ualberta.ca/services/infolink/tutor/registry/tutor/406/) Tutor
   
+## 2019 ##
+  **Executive Producer**, Winter Semester  
+  [INT D 450 - "Computers and Games"](https://www.ualberta.ca/computing-science/undergraduate-studies/course-directory/courses/computers-and-games-capstone) under Prof. Sean Gouglas
+
+  **Gaming Assistant**, Winter Semester  
+  [INT D 350 - "Game Design Principles and Practice"](https://www.ualberta.ca/computing-science/undergraduate-studies/course-directory/courses/game-design-principles-and-practice) under Prof. Michael Bowling
+  
+  **Executive Producer**, Winter Semester  
+  [CMPUT 250 - "Computers and Games"](https://www.ualberta.ca/computing-science/undergraduate-studies/course-directory/courses/computers-and-games) under Prof. Vadim Bulitko for *Frayed System* by Proximiti Games
+ 
+  **Independent Researcher**, Winter Semester  
+  [MLCS 499 - "Advanced Critical Game Design and Theory"](https://calendar.ualberta.ca/preview_course_nopop.php?catoid=6&coid=46065) developing Unit Interaction Analysis as a game design analysis framework under Prof. Astrid Ensslin  
+  
 ## 2018 ##
 
   **Executive Producer**, Fall Semester  
-  [CMPUT 250 - "Computers and Games"](https://www.ualberta.ca/computing-science/undergraduate-studies/course-directory/courses/computers-and-games) under Prof. Nathan Sturtevant
+  [CMPUT 250 - "Computers and Games"](https://www.ualberta.ca/computing-science/undergraduate-studies/course-directory/courses/computers-and-games) under Prof. Nathan Sturtevant for *Mind Into Matter* by Altin Games
 
   **USRA Researcher**, Summer, Fall Semester  
   "Situational Awareness in StarCraft 2 AI" under Prof. Michael Buro
@@ -41,7 +54,7 @@ group: work
   [Undergraduate Capstone Open Source Project](http://ucosp.ca/) with Prof. Karim Ali and Julian Dolby
   
   **Producer and Lead Developer**, Winter Semester  
-  <i>Reviver</i> by TEAM JEFF, created for [INTD 450 - "Computers and Games Capstone"](https://www.ualberta.ca/computing-science/undergraduate-studies/course-directory/courses/computers-and-games-capstone) (Unity)
+  <i>Reviver</i> by [TEAM JEFF](http://teamjeff.jeffcho.com), created for [INTD 450 - "Computers and Games Capstone"](https://www.ualberta.ca/computing-science/undergraduate-studies/course-directory/courses/computers-and-games-capstone) (Unity)
 
 ## 2017 ##
 
@@ -55,7 +68,7 @@ group: work
   [Undergraduate Capstone Open Source Project](http://ucosp.ca/) with Prof. Karim Ali and Julian Dolby
   
   **Producer and Lead Developer**, Fall Semester  
-  *> turing* by TEAM JEFF, created for [STS 350 - "Understanding Video Games"](http://calendar.ualberta.ca/preview_course_nopop.php?catoid=6&coid=47852) (Ren'Py Engine)
+  *> turing* by [TEAM JEFF](http://teamjeff.jeffcho.com), created for [STS 350 - "Understanding Video Games"](http://calendar.ualberta.ca/preview_course_nopop.php?catoid=6&coid=47852) (Ren'Py Engine)
 
   **Research Assistant**, Summer  
   Swift-WALA Project, under Prof. Karim Ali
