@@ -23,7 +23,11 @@ group: work
   **Students' Union Tutor**, *2018 - Present*  
   [Students' Union Certified](https://www.su.ualberta.ca/services/infolink/tutor/registry/tutor/406/) Tutor
   
+  **Videographer and Editor**  
+  [Programming Languages/Software Engineering (PLSE) Seminar Series](http://bit.ly/plsevideos)
+  
 ## 2019 ##
+
   **Executive Producer**, Winter Semester  
   [INT D 450 - "Computers and Games"](https://www.ualberta.ca/computing-science/undergraduate-studies/course-directory/courses/computers-and-games-capstone) under Prof. Sean Gouglas
 
