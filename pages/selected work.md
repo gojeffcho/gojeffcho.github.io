@@ -23,7 +23,10 @@ group: work
   **Students' Union Tutor**, *2018 - Present*  
   [Students' Union Certified](https://www.su.ualberta.ca/services/infolink/tutor/registry/tutor/406/) Tutor
   
-  **Videographer and Editor**  
+  **Curator**, *2018 - Present*  
+  Student Games Archive, University of Alberta
+  
+  **Videographer and Editor**, *2019 - Present*  
   [Programming Languages/Software Engineering (PLSE) Seminar Series](http://bit.ly/plsevideos)
   
 ## 2019 ##
