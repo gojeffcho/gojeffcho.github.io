@@ -5,6 +5,10 @@ permalink: /recognition/
 weight: 4
 ---
   
+  **Canada Graduate Scholarship - Master's**, 2019  
+  *$17,500 Value*  
+  Natural Sciences and Engineering Research Council of Canada (NSERC)
+  
   **Honorable Mention, CRA Outstanding Undergraduate Researcher Awards**, 2019  
   Computing Research Association
   
