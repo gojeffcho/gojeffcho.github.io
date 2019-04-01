@@ -5,7 +5,7 @@ permalink: /recognition/
 weight: 4
 ---
   
-  **Canada Graduate Scholarship - Master's**, 2019  
+  **Alexander Graham Bell Canada Graduate Scholarship - Master's**, 2019  
   *$17,500 Value*  
   Natural Sciences and Engineering Research Council of Canada (NSERC)
   
