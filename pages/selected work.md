@@ -6,19 +6,24 @@ weight: 3
 group: work
 ---
 
-## Ongoing ##
+## Overview ##
 
   **Officer**, *2015 - Present*  
   Royal Canadian Air Force (Regular Force)
-
-  **Bachelor of Science, Computing Science Specialization**, *2015 - Present*  
-  University of Alberta, Edmonton, Alberta
   
-  **Game Development Certificate**, *2015 - Present*  
-  University of Alberta, Edmonton, Alberta  
+  **Masters of Science, Computing Science**, *2019 - 2021 (est)*  
+  University of Alberta, Edmonton, AB
+
+  **Bachelor of Science, Computing Science Specialization**, *2015 - 2019*  
+  University of Alberta, Edmonton, AB
+  
+  **Game Development Certificate**, *2015 - 2019*  
+  University of Alberta, Edmonton, AB
+
+## Ongoing ##
 
   **Producer, Game Designer, Lead Developer**, *2018 - Present*  
-  [_Project Colony_](/tag/colony) (Working Title) by [Caldera Interactive](http://calderainteractive.com)
+  [_Project Colony_](/tag/colony) (Working Title - on hiatus) by [Caldera Interactive](http://calderainteractive.com)
   
   **Students' Union Tutor**, *2018 - Present*  
   [Students' Union Certified](https://www.su.ualberta.ca/services/infolink/tutor/registry/tutor/406/) Tutor

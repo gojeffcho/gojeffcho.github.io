@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Project Colony"
+title:  "Project Colony (on hiatus)"
 author: Jeff Cho
 date:   2018-10-21 11:39:00
 tags:   projects games colony
