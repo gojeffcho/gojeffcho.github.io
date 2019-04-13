@@ -11,7 +11,7 @@ group: work
   **Officer**, *2015 - Present*  
   Royal Canadian Air Force (Regular Force)
   
-  **Masters of Science, Computing Science**, *2019 - 2021 (est)*  
+  **Master of Science, Computing Science**, *2019 - 2021 (est)*  
   University of Alberta, Edmonton, AB
 
   **Bachelor of Science, Computing Science Specialization**, *2015 - 2019*  
