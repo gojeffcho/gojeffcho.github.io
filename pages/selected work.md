@@ -11,10 +11,11 @@ group: work
   **Officer**, *2015 - Present*  
   Royal Canadian Air Force (Regular Force)
   
-  **Master of Science, Computing Science**, *2019 - 2021 (est)*  
+  **Master of Science - Computing Science**, *2019 - 2021 (est)*  
   University of Alberta, Edmonton, AB
 
-  **Bachelor of Science, Computing Science Specialization**, *2015 - 2019*  
+  **Bachelor of Science - Computing Science Specialization**, *2015 - 2019*  
+  *With Distinction*  
   University of Alberta, Edmonton, AB
   
   **Game Development Certificate**, *2015 - 2019*  
@@ -51,7 +52,8 @@ group: work
 ## 2018 ##
 
   **Executive Producer**, Fall Semester  
-  [CMPUT 250 - "Computers and Games"](https://www.ualberta.ca/computing-science/undergraduate-studies/course-directory/courses/computers-and-games) under Prof. Nathan Sturtevant for *Mind Into Matter* by Altin Games
+  [CMPUT 250 - "Computers and Games"](https://www.ualberta.ca/computing-science/undergraduate-studies/course-directory/courses/computers-and-games) under Prof. Nathan Sturtevant for *Mind Into Matter* by Altin Games (Nominated for Excellence in Art and Design and Game of the Year)
+     
 
   **USRA Researcher**, Summer, Fall Semester  
   "Situational Awareness in StarCraft 2 AI" under Prof. Michael Buro
