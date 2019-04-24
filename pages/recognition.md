@@ -5,9 +5,13 @@ permalink: /recognition/
 weight: 4
 ---
   
-  **Alexander Graham Bell Canada Graduate Scholarship - Master's**, 2019-2010  
+  **Alexander Graham Bell Canada Graduate Scholarship - Master's**, 2019-2020  
   *$17,500 Value*  
   Natural Sciences and Engineering Research Council of Canada (NSERC)
+  
+  **Master's Recruitment Scholarship - Thesis-Based**, 2019-2020  
+  *$17,500 Value*  
+  University of Alberta
   
   **Walter H Johns Graduate Fellowship**, 2019-2010  
   *$5,800 Value*  
