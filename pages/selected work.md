@@ -8,32 +8,42 @@ group: work
 
 ## Overview ##
 
+  **Master of Science - Computing Science**, *2019 - 2021 (est)*  
+  University of Alberta, Edmonton, AB
+  
+  **Founder, President**, *2018 - Present*  
+  [Caldera Interactive](http://www.calderainteractive.com)
+  
+  **Board Member**, *2019 - Present*  
+  [Interactive Arts Alberta](https://interactiveartsalberta.org)
+
   **Officer**, *2015 - Present*  
   Royal Canadian Air Force (Regular Force)
   
-  **Master of Science - Computing Science**, *2019 - 2021 (est)*  
-  University of Alberta, Edmonton, AB
-
   **Bachelor of Science - Computing Science Specialization**, *2015 - 2019*  
   *With Distinction*  
   University of Alberta, Edmonton, AB
   
   **Game Development Certificate**, *2015 - 2019*  
   University of Alberta, Edmonton, AB
-
+  
 ## Ongoing ##
 
-  **Producer, Game Designer, Lead Developer**, *2018 - 2019*  
-  [_Project Silverthrone_](/tag/silverthrone) (Working Title) by [Caldera Interactive](http://calderainteractive.com)
-  
+  **Videographer and Editor**, *2019 - Present*  
+  [Programming Languages/Software Engineering (PLSE) Seminar Series](http://bit.ly/plsevideos)
+
   **Students' Union Tutor**, *2018 - Present*  
   [Students' Union Certified](https://www.su.ualberta.ca/services/infolink/tutor/registry/tutor/406/) Tutor
   
   **Curator**, *2018 - Present*  
   Student Games Archive, University of Alberta
   
-  **Videographer and Editor**, *2019 - Present*  
-  [Programming Languages/Software Engineering (PLSE) Seminar Series](http://bit.ly/plsevideos)
+  **Producer, Game Designer, Lead Developer, Writer**, *2018 - 2019*  
+  [_Project Silverthrone_](/tag/silverthrone) (Working Title - on hiatus) by [Caldera Interactive](http://calderainteractive.com)
+  
+  **Research Assistant - The Maple Lab**, *2017 - Present*  
+  Investigating, developing, and supervising [SWAN](/tag/swan), a static analysis framework for Swift using WALA under Prof. Karim Ali.
+
   
 ## 2019 ##
 
