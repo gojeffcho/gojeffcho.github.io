@@ -5,6 +5,10 @@ permalink: /recognition/
 weight: 4
 ---
   
+  **Catherine Descheneau Teaching Assistantship Award in Computing Science**, 2019  
+  *$1,600 Value*  
+  University of Alberta
+  
   **Alexander Graham Bell Canada Graduate Scholarship - Master's**, 2019-2020  
   *$17,500 Value*  
   Natural Sciences and Engineering Research Council of Canada (NSERC)

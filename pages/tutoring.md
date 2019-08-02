@@ -6,7 +6,7 @@ permalink: /tutoring/
 weight: 5
 ---
 
-I am a University of Alberta [Student's Union certified tutor](https://www.su.ualberta.ca/services/infolink/tutor/registry/tutor/406/) and am happy to provide weekly tutoring sessions for the following courses for Summer 2019, Fall 2019, and Winter 2020:
+I am a University of Alberta [Student's Union certified tutor](https://www.su.ualberta.ca/services/infolink/tutor/registry/tutor/406/), M.Sc. Computing Science candidate, B.Sc. Computing Science Specialization graduate with Distinction, and am happy to provide weekly tutoring sessions for the following courses for Fall 2019 and Winter 2020:
 
 * CMPUT 174 - Intro to Foundations of Computation I
 * CMPUT 175 - Intro to Foundations of Computation II

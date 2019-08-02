@@ -23,8 +23,8 @@ group: work
 
 ## Ongoing ##
 
-  **Producer, Game Designer, Lead Developer**, *2018 - Present*  
-  [_Project Colony_](/tag/colony) (Working Title - on hiatus) by [Caldera Interactive](http://calderainteractive.com)
+  **Producer, Game Designer, Lead Developer**, *2018 - 2019*  
+  [_Project Silverthrone_](/tag/silverthrone) (Working Title) by [Caldera Interactive](http://calderainteractive.com)
   
   **Students' Union Tutor**, *2018 - Present*  
   [Students' Union Certified](https://www.su.ualberta.ca/services/infolink/tutor/registry/tutor/406/) Tutor
@@ -54,6 +54,8 @@ group: work
   **Executive Producer**, Fall Semester  
   [CMPUT 250 - "Computers and Games"](https://www.ualberta.ca/computing-science/undergraduate-studies/course-directory/courses/computers-and-games) under Prof. Nathan Sturtevant for *Mind Into Matter* by Altin Games (Nominated for Excellence in Art and Design and Game of the Year)
      
+  **Producer, Game Designer, Lead Developer**, *2018 - 2019*  
+  [_Project Colony_](/tag/colony) (Working Title - on hiatus) by [Caldera Interactive](http://calderainteractive.com)
 
   **USRA Researcher**, Summer, Fall Semester  
   "Situational Awareness in StarCraft 2 AI" under Prof. Michael Buro

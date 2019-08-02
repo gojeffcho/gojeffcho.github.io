@@ -3,7 +3,7 @@ layout: post
 title:  "Student Games Archive"
 author: Jeff Cho
 date:   2018-04-21 11:30:00
-tags:   projects web gamedev
+tags:   projects web gamedev active
 ---
   
   <img src="{{ "/resources/images/gamedev.png" | absolute_url }}" style="display: block; margin-left: auto; margin-right: auto; max-width: 40%; ">
