@@ -47,6 +47,9 @@ group: work
   
 ## 2019 ##
 
+  **Executive Producer**, Fall Semester  
+  [CMPUT 250 - "Computers and Games"](https://www.ualberta.ca/computing-science/undergraduate-studies/course-directory/courses/computers-and-games) under Prof. Nathan Sturtevant  
+  
   **Executive Producer**, Winter Semester  
   [INT D 450 - "Computers and Games"](https://www.ualberta.ca/computing-science/undergraduate-studies/course-directory/courses/computers-and-games-capstone) under Prof. Sean Gouglas
 

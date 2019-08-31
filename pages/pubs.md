@@ -12,6 +12,8 @@ group: pubs
 
 #### Presentations ####
 
+  **Jeff Cho** and Shelby Carleton. 2019. *> turing* and AI in Games. Presentation (invited) at *Technology Law Practice Group Aug '19*, Alberta Ministry of Justice and Solicitor General.  
+  
   **Jeff Cho**. 2019. Unit Interaction Analysis - A New Framework for Analysis and Taxonomy of Interactive Media. Presentation (competitive) at *Digital Humanities Computing Conference - Disruption (DiHuCon '19)*.
   
   **TEAM JEFF**. *> turing* (PC Game). Showcased at *Digital Humanities Computing Conference - Disruption (DiHuCon '19)*.
