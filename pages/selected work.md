@@ -8,13 +8,13 @@ group: work
 
 ## Overview ##
 
-  **Master of Science - Computing Science**, *2019 - 2021 (est)*  
+  **Master of Science - Computing Science** (Thesis-Based), *2019 - 2021 (est)*  
   University of Alberta, Edmonton, AB
   
   **Founder, President**, *2018 - Present*  
   [Caldera Interactive](http://www.calderainteractive.com)
   
-  **Board Member**, *2019 - Present*  
+  **Vice President, Board Member**, *2019 - Present*  
   [Interactive Arts Alberta](https://interactiveartsalberta.org)
 
   **Officer**, *2015 - Present*  
@@ -38,16 +38,24 @@ group: work
   **Curator**, *2018 - Present*  
   Student Games Archive, University of Alberta
   
-  **Producer, Game Designer, Lead Developer, Writer**, *2018 - 2019*  
+  **Producer, Game Designer, Lead Developer**, *2019 - Present*  
   [_Project Silverthrone_](/tag/silverthrone) (Working Title - on hiatus) by [Caldera Interactive](http://calderainteractive.com)
   
-  **Research Assistant - The Maple Lab**, *2017 - Present*  
+  **Research Assistant - The Maple Lab**, *2017 - 2019*  
   Investigating, developing, and supervising [SWAN](/tag/swan), a static analysis framework for Swift using WALA under Prof. Karim Ali.
 
   
+## 2020 ##
+
+  **Teaching Assistant**, Winter Semester  
+  [CMPUT 250 - "Computers and Games"](https://www.ualberta.ca/computing-science/undergraduate-studies/course-directory/courses/computers-and-games) under Prof. Nathan Sturtevant  
+
 ## 2019 ##
 
   **Executive Producer**, Fall Semester  
+  [CMPUT 250 - "Computers and Games"](https://www.ualberta.ca/computing-science/undergraduate-studies/course-directory/courses/computers-and-games) under Prof. Nathan Sturtevant for *Restoring Elysian* by Confused Seals
+  
+  **Teaching Assistant**, Fall Semester  
   [CMPUT 250 - "Computers and Games"](https://www.ualberta.ca/computing-science/undergraduate-studies/course-directory/courses/computers-and-games) under Prof. Nathan Sturtevant  
   
   **Executive Producer**, Winter Semester  
