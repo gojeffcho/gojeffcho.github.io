@@ -11,12 +11,15 @@ group: work
   **Master of Science - Computing Science** (Thesis-Based), *2019 - 2021 (est)*  
   University of Alberta, Edmonton, AB
   
+  **Vice President, Board Member**, *2019 - Present*  
+  [Interactive Arts Alberta](https://interactiveartsalberta.org)
+  
+  **Co-Founder, Co-Organizer**, *2019 - Present*  
+  [Canada Open-Source Projects](https://canosp.ca) (CANOSP)
+
   **Founder, President**, *2018 - Present*  
   [Caldera Interactive](http://www.calderainteractive.com)
   
-  **Vice President, Board Member**, *2019 - Present*  
-  [Interactive Arts Alberta](https://interactiveartsalberta.org)
-
   **Officer**, *2015 - Present*  
   Royal Canadian Air Force (Regular Force)
   
@@ -35,14 +38,17 @@ group: work
   **Students' Union Tutor**, *2018 - Present*  
   [Students' Union Certified](https://www.su.ualberta.ca/services/infolink/tutor/registry/tutor/406/) Tutor
   
-  **Curator**, *2018 - Present*  
+  **Founder, Curator**, *2018 - Present*  
   Student Games Archive, University of Alberta
   
   **Producer, Game Designer, Lead Developer**, *2019 - Present*  
-  [_Project Silverthrone_](/tag/silverthrone) (Working Title - on hiatus) by [Caldera Interactive](http://calderainteractive.com)
+  [_Project Silverthrone_](/tag/silverthrone) (Working Title) by [Caldera Interactive](http://calderainteractive.com)
   
   **Research Assistant - The Maple Lab**, *2017 - 2019*  
   Investigating, developing, and supervising [SWAN](/tag/swan), a static analysis framework for Swift using WALA under Prof. Karim Ali.
+  
+  **Non-Commissioned Officer**, 2007 - 2015  
+  Canadian Army (Regular Force)
 
   
 ## 2020 ##
@@ -120,9 +126,6 @@ group: work
 
   **Lead Designer, Developer**, 2016  
   *Torus* by Blue Rare Productions, created for [CMPUT 250](https://www.ualberta.ca/computing-science/undergraduate-studies/course-directory/courses/computers-and-games) (Aurora Engine)
-
-  **Non-Commissioned Officer**, 2007 - 2015  
-  Canadian Army (Regular Force)
   
   **Dean of Awesome**, 2014 - 2016  
   Awesome Foundation - Edmonton 
