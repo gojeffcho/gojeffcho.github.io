@@ -4,8 +4,18 @@
 @charset "utf-8";
 
 
+@font-face {
+  font-family: "HelveticaNeue-Light";
+  src: url("../resources/fonts/HelveticaNeueLight.ttf")
+}
+
+@font-face {
+  font-family: "HelveticaNeue";
+  src: url("../resources/fonts/HelveticaNeue.ttf")
+}
+
 // My variables
-$base-font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
+$base-font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "HelveticaNeue", sans-serif;
 $base-font-size:   16px;
 $small-font-size:  $base-font-size * 0.875;
 $base-line-height: 1.5;

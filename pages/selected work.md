@@ -32,6 +32,9 @@ group: work
   
 ## Ongoing ##
 
+  **Producer, Game Designer, Lead Developer**, *2020 - Present*  
+  [_Project Turing_](/tag/turing) (Working Title) by [Caldera Interactive](http://calderainteractive.com)
+  
   **Videographer and Editor**, *2019 - Present*  
   [Programming Languages/Software Engineering (PLSE) Seminar Series](http://bit.ly/plsevideos)
 
@@ -41,11 +44,8 @@ group: work
   **Founder, Curator**, *2018 - Present*  
   Student Games Archive, University of Alberta
   
-  **Producer, Game Designer, Lead Developer**, *2019 - Present*  
-  [_Project Silverthrone_](/tag/silverthrone) (Working Title) by [Caldera Interactive](http://calderainteractive.com)
-  
-  **Research Assistant - The Maple Lab**, *2017 - 2019*  
-  Investigating, developing, and supervising [SWAN](/tag/swan), a static analysis framework for Swift using WALA under Prof. Karim Ali.
+  **Research Assistant - The Maple Lab**, *2017 - Present*  
+  Investigating, developing, and supervising [SWAN](/tag/swan), a static analysis framework for Swift using WALA (2017 - Present) and automatic verification of [custom hash and comparator functions](/tag/hashcomps) in C++ (2020 - Present) under Prof. Karim Ali.
   
   **Non-Commissioned Officer**, 2007 - 2015  
   Canadian Army (Regular Force)

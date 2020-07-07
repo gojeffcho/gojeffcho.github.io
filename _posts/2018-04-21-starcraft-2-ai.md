@@ -3,7 +3,7 @@ layout: post
 title:  "Research: StarCraft 2 AI Situational Awareness"
 author: Jeff Cho
 date:   2018-04-21 10:30:00
-tags:   projects games starcraft2 active
+tags:   projects games starcraft2 
 ---
   
   <img src="{{ "/resources/images/sc2.png" | absolute_url }}" width="400" style="display: block; margin-left: auto; margin-right: auto; width: 55%">
