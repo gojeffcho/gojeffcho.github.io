@@ -6,7 +6,7 @@ permalink: /tutoring/
 weight: 5
 ---
 
-I am a University of Alberta [Student's Union certified tutor](https://www.su.ualberta.ca/services/infolink/tutor/registry/tutor/406/), M.Sc. Computing Science candidate, B.Sc. Computing Science Specialization graduate with Distinction, and am happy to provide weekly tutoring sessions for the following courses for Fall 2019 and Winter 2020:
+I am a University of Alberta [Students' Union certified tutor](https://www.su.ualberta.ca/services/infolink/tutor/registry/tutor/406/), M.Sc. Computing Science candidate, B.Sc. Computing Science Specialization graduate with Distinction, and provide tutoring sessions for the following courses:
 
 * CMPUT 174 - Intro to Foundations of Computation I
 * CMPUT 175 - Intro to Foundations of Computation II
@@ -26,7 +26,7 @@ I am a University of Alberta [Student's Union certified tutor](https://www.su.ua
 * STAT 151 - Introduction to Applied Statistics I
 * STAT 252 - Introduction to Applied Statistics II
 
-I am also available for tutoring in non-course-specific areas such as academic writing, game design and development, and public speaking.
+I am also available for tutoring in non-course-specific areas such as academic writing, game design and development, and public speaking.  Please see my [Students' Union tutor page](https://www.su.ualberta.ca/services/infolink/tutor/registry/tutor/406/) for my current availability.
 
 {% assign tutoremail = "jeff.cho+tutor@ualberta.ca" %}
 {% assign subjectline = "[Tutor%20Request]%20YOUR%20NAME%20HERE" %}
