@@ -4,6 +4,10 @@ title: Recognition
 permalink: /recognition/
 weight: 4
 ---
+
+  **Alberta Graduate Excellence Scholarship**, 2020  
+  *$12,000 Value*  
+  University of Alberta
   
   **Catherine Descheneau Teaching Assistantship Award in Computing Science**, 2019  
   *$1,600 Value*  
